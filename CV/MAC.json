@@ -65,6 +65,38 @@
     "projects": [
       {
         "details": {
+          "name": " Kit de Arquitectura Backend",
+          "description": "Este repositorio consiste en una maqueta para el inicio de cualquier proyecto, la diferencia de este es que está enfocado en que el dev se concentre totalmente en la lógica del servicio, obviando la creación de APIs Gateway desde cero o el despliegue del proyecto y orientado a una arquitectura de microservicios.",
+          "URL": "https://github.com/Davidpedo123/Mircroservicios"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-11-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": " Ejemplo Microservicios",
           "description": "Este repositorio demuestra una arquitectura de microservicios donde los servicios están diseñados utilizando FastAPI para el backend y Angular para el frontend. La comunicación y el enrutamiento de las solicitudes se gestionan a través de un proxy inverso Nginx, mientras que la orquestación y el despliegue de los contenedores se manejan con Docker Compose.",
           "URL": "https://github.com/Davidpedo123/whatismyip"
@@ -262,6 +294,9 @@
     "projects": [
       {
         "name": " Ejemplo Microservicios"
+      },
+      {
+        "name": " Kit de Arquitectura Backend"
       }
     ]
   }

@@ -288,6 +288,25 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Python Fundamentals for Beginners",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Great Learning",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/13/0b237277-cbfb-4504-8789-01027973c690_pycert.png",
+            "alt": "pycert.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Tecnologo , Desarrollo de Software",

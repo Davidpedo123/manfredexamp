@@ -61,6 +61,37 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Optimizacion de procesos",
+          "description": "Optimicé un proceso de validación de datos, previamente manual y unitario, mediante un aplicativo automatizado. La solución permite procesar grandes volúmenes de datos con una velocidad notablemente superior al método anterior. Además, integra un sistema de caché que permite validaciones inmediatas en ciertos casos y cuenta con una interfaz amigable para el usuario"
+        },
+        "type": "achievement",
+        "publishingDate": "2024-04-01",
+        "tags": [
+          "Optimizacion"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Dash",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Redis",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

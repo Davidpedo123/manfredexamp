@@ -62,6 +62,40 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": " Ejemplo Microservicios",
+          "description": "Este repositorio demuestra una arquitectura de microservicios donde los servicios están diseñados utilizando FastAPI para el backend y Angular para el frontend. La comunicación y el enrutamiento de las solicitudes se gestionan a través de un proxy inverso Nginx, mientras que la orquestación y el despliegue de los contenedores se manejan con Docker Compose.",
+          "URL": "https://github.com/Davidpedo123/whatismyip"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-10-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -224,6 +258,11 @@
         "type": "technology"
       }
     ],
-    "goodPractices": "En mis proyectos personales y en mi trabajo, aseguro que la documentación sea completa y accesible, de modo que cualquier persona, incluso sin familiaridad con las tecnologías empleadas, pueda entender el proyecto fácilmente.\n\nAdemás, me apasiona la búsqueda de oportunidades para optimizar procesos y medir el impacto de las mejoras realizadas. Priorizo soluciones eficientes que maximicen los recursos disponibles, evitando costos adicionales siempre que sea posible."
+    "goodPractices": "En mis proyectos personales y en mi trabajo, aseguro que la documentación sea completa y accesible, de modo que cualquier persona, incluso sin familiaridad con las tecnologías empleadas, pueda entender el proyecto fácilmente.\n\nAdemás, me apasiona la búsqueda de oportunidades para optimizar procesos y medir el impacto de las mejoras realizadas. Priorizo soluciones eficientes que maximicen los recursos disponibles, evitando costos adicionales siempre que sea posible.",
+    "projects": [
+      {
+        "name": " Ejemplo Microservicios"
+      }
+    ]
   }
 }

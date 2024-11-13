@@ -1,0 +1,230 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Eduardo David",
+      "surnames": "Tejada Moreta",
+      "title": "%%HEADLINE%%",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/13/010f2b1f-ead7-4e74-84dd-67b9f6026735_david-decente-photor.png",
+        "alt": "david-decente-Photoroom.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ9bbx3jiIr44R4PcNBiQPAqY)",
+        "country": "República Dominicana"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/eduardo-david-tejada-moreta-67567125b"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "INAFOCAM"
+        },
+        "roles": [
+          {
+            "name": "Soporte Técnico",
+            "startDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones web, automatización de procesos mediante scripting, captura y validación de datos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Junta Central Electoral - JCE"
+        },
+        "roles": [
+          {
+            "name": "Soporte Técnico",
+            "startDate": "2023-09-01",
+            "finishDate": "2023-10-31",
+            "challenges": [
+              {
+                "description": "Encargado de la instalación y correcto funcionamientos de los equipos."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachillerato, Estadística, trigonometría y matemática",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "Liceo Celeste Aida del Villar"
+        },
+        "finishDate": "2023-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tecnologo , Desarrollo de Software",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "ITLA"
+        },
+        "finishDate": "2025-10-31"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/eduardo-david-tejada-moreta-67567125b",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Analyst & BI",
+        "DevOps & Infrastructure & SRE"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Fastapi",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ]
+  }
+}

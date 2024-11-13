@@ -296,6 +296,29 @@
           "name": "ITLA"
         },
         "finishDate": "2025-10-31"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Técnico de Cirberseguridad",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "DarFe Learning Consulting S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/13/3844d43e-ab66-44a6-ba98-1381cf356d0e_tec.png",
+            "alt": "tec.ciber.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Wireshark",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [

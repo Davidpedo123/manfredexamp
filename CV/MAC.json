@@ -126,6 +126,42 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Web Scraping + Kubernetes",
+          "description": "Un endpoint en FastAPI que usa BeautifulSoup para scraping, servido por Nginx, cacheado con Redis y desplegado en Kubernetes.",
+          "URL": "https://github.com/Davidpedo123/web-scraping-kubernetes",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/13/3c10b6dd-cf81-42d1-8f31-4ef750c28e9c_kubernetes-dashboard.png",
+            "alt": "kubernetes-dashboard.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-09-01",
+            "competences": [
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
@@ -297,6 +333,9 @@
       },
       {
         "name": " Kit de Arquitectura Backend"
+      },
+      {
+        "name": "Web Scraping + Kubernetes"
       }
     ]
   }

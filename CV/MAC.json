@@ -65,6 +65,26 @@
     "projects": [
       {
         "details": {
+          "name": "Librería de Python cedula_do ",
+          "description": "Paquete de python, para el correcto e eficiente formateo y normalización de la cedula dominicana.",
+          "URL": "https://github.com/Davidpedo123/cedula_do"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-11-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": " Kit de Arquitectura Backend",
           "description": "Este repositorio consiste en una maqueta para el inicio de cualquier proyecto, la diferencia de este es que está enfocado en que el dev se concentre totalmente en la lógica del servicio, obviando la creación de APIs Gateway desde cero o el despliegue del proyecto y orientado a una arquitectura de microservicios.",
           "URL": "https://github.com/Davidpedo123/Mircroservicios"
@@ -333,6 +353,9 @@
       },
       {
         "name": " Kit de Arquitectura Backend"
+      },
+      {
+        "name": "Librería de Python cedula_do "
       },
       {
         "name": "Web Scraping + Kubernetes"

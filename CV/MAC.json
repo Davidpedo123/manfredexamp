@@ -30,7 +30,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "INAFOCAM"
+          "name": "INAFOCAM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/13/abb31e2b-8ca9-49e3-a2b3-464d34009031_equipo-de-anlisis-fo.jpg",
+            "alt": "equipo de anlisis foto.jpg"
+          }
         },
         "roles": [
           {
@@ -39,6 +43,20 @@
             "challenges": [
               {
                 "description": "Desarrollo de aplicaciones web, automatización de procesos mediante scripting, captura y validación de datos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
